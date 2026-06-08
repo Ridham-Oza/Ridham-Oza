@@ -18,7 +18,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ridhamoza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridhamoza.dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridham.oza@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ridhamoza&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/ridhamoza)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ridham-Oza&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ridham-Oza)
 
 </div>
 
@@ -92,7 +92,7 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [GenAI RAG Chatbot](https://github.com/ridhamoza/genai-rag-chatbot) &nbsp;🔨
+### 🤖 [GenAI RAG Chatbot](https://github.com/Ridham-Oza/genai-rag-chatbot) &nbsp;🔨
 **Retrieval-Augmented Generation** system built with LangChain, FAISS vector DB, and GPT-4. Upload any document and have an intelligent conversation with it.
 
 `LangChain` `OpenAI` `FAISS` `Streamlit` `Python`
@@ -100,7 +100,7 @@ me.say_hi()
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Customer Churn Predictor](https://github.com/ridhamoza/churn-prediction) &nbsp;📋
+### 📊 [Customer Churn Predictor](https://github.com/Ridham-Oza/churn-prediction) &nbsp;📋
 **End-to-end ML pipeline** using XGBoost + SHAP explainability achieving 92% accuracy. Fully deployed with FastAPI + Docker for production use.
 
 `XGBoost` `SHAP` `FastAPI` `Docker` `Pandas`
@@ -110,7 +110,7 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ [Image Caption Generator](https://github.com/ridhamoza/image-captioning) &nbsp;📋
+### 🖼️ [Image Caption Generator](https://github.com/Ridham-Oza/image-captioning) &nbsp;📋
 **CNN + Transformer model** trained on the COCO dataset. Generates rich, descriptive captions for any image using a multi-head attention mechanism.
 
 `PyTorch` `CNN` `Transformers` `COCO` `OpenCV`
@@ -118,28 +118,10 @@ me.say_hi()
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Sales Intelligence Dashboard](https://github.com/ridhamoza/sales-dashboard) &nbsp;📋
+### 📈 [Sales Intelligence Dashboard](https://github.com/Ridham-Oza/sales-dashboard) &nbsp;📋
 **Interactive Power BI + Python** dashboard with ML-powered forecasting using Prophet. Predicts revenue 30 days ahead with confidence intervals.
 
 `Power BI` `Prophet` `SQL` `Pandas` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [LLM Fine-tuning Lab](https://github.com/ridhamoza/llm-finetune-lab) &nbsp;📋
-**Fine-tuning experiments** using LoRA/QLoRA on domain-specific datasets. Includes training scripts, evaluation pipelines, and inference APIs.
-
-`HuggingFace` `LoRA` `QLoRA` `PEFT` `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ [AI Agent System](https://github.com/ridhamoza/ai-agent) &nbsp;📋
-**Multi-agent orchestration** using LangGraph and CrewAI. Autonomous agents that plan, reason, use tools, and collaborate to complete complex tasks.
-
-`LangGraph` `CrewAI` `LangChain` `OpenAI` `Python`
 
 </td>
 </tr>
@@ -151,15 +133,15 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridhamoza&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=48CAE4&text_color=333333&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridham-Oza&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=48CAE4&text_color=333333&bg_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhamoza&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridham-Oza&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ridhamoza&theme=buefy&hide_border=true&ring=6C63FF&fire=48CAE4&currStreakLabel=6C63FF&sideLabels=888888&dates=aaaaaa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ridham-Oza&theme=buefy&hide_border=true&ring=6C63FF&fire=48CAE4&currStreakLabel=6C63FF&sideLabels=888888&dates=aaaaaa)](https://git.io/streak-stats)
 
 </div>
 
@@ -169,7 +151,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ridhamoza&theme=flat&no-frame=true&margin-w=12&column=7&title_color=6C63FF)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ridham-Oza&theme=flat&no-frame=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -180,9 +162,9 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhamoza/ridhamoza/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhamoza/ridhamoza/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ridhamoza/ridhamoza/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -193,7 +175,7 @@ me.say_hi()
 
 ```
 🔬  Fine-tuning LLMs using LoRA / QLoRA on custom domain datasets
-🕸️  Agentic AI systems with LangGraph, CrewAI & AutoGen  
+🕸️  Agentic AI systems with LangGraph, CrewAI & AutoGen
 📐  Advanced RAG: HyDE, re-ranking, multi-hop, parent-doc retrieval
 ☁️  MLOps & model deployment pipelines on AWS SageMaker
 📊  Time-series forecasting with Temporal Fusion Transformers
@@ -206,7 +188,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Ridham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhamoza&theme=github-light&hide_border=true&color=6C63FF&line=48CAE4&point=6C63FF&area=true&area_color=EEF2FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ridham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridham-Oza&theme=github-light&hide_border=true&color=6C63FF&line=48CAE4&point=6C63FF&area=true&area_color=EEF2FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -216,8 +198,6 @@ me.say_hi()
 
 <div align="center">
 
-I'm actively seeking roles in:
-
 | 🤖 ML / AI Engineer | 📊 Data Scientist | ✨ Generative AI Dev | 🔍 Data Analyst |
 |:---:|:---:|:---:|:---:|
 | Full-time · Contract | Full-time · Contract | Full-time · Freelance | Full-time |
@@ -226,7 +206,6 @@ I'm actively seeking roles in:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhamoza)
 [![Send Email](https://img.shields.io/badge/Drop%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridham.oza@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridhamoza.dev)
 
 </div>
 
@@ -234,18 +213,11 @@ I'm actively seeking roles in:
 
 <div align="center">
 
-### 💬 Quote I Build By
-
 > *"Without data, you're just another person with an opinion."*
 > — W. Edwards Deming
 
----
-
-**⭐ Star my repos if you find them useful!**
-
-**🤝 Always open to collaborating on exciting AI/ML projects**
+**⭐ Star my repos if you find them useful · 🤝 Always open to collaborating**
 
 </div>
 
-<!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:6C63FF,100:48CAE4&height=130&section=footer"/>
