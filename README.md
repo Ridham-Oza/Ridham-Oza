@@ -90,7 +90,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🤖 GenAI RAG Chatbot &nbsp;✅
-> ### 🤖 [GenAI RAG Chatbot](https://github.com/Ridham-Oza/GEN-AI-RAG-CHATBOT)
+> (https://github.com/Ridham-Oza/GEN-AI-RAG-CHATBOT)
 > *Live — check it out!*
 
 **Retrieval-Augmented Generation** system with LangChain, FAISS vector DB, and GPT- present document and have an intelligent conversation with it.
