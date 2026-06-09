@@ -1,22 +1,18 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:48CAE4,100:6C63FF&height=220&section=header&text=Ridham%20Oza&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20ML%20%26%20AI%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder&descAlignY=55&descSize=18&descColor=e0e0ff" />
+<!-- TYPING SVG - Main hero (no external image, pure text-based so never breaks) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ridham+Oza)](https://git.io/typing-svg)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Fine-tuning+LLMs+%26+Building+AI+Agents+%F0%9F%A4%96;End-to-End+ML+Pipelines+%E2%86%92+Production+%F0%9F%9A%80;Career+Switcher+%E2%86%92+AI+Engineer+%E2%9A%A1;Building+the+Future+with+Generative+AI+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&random=false&width=700&height=45&lines=Data+Scientist+%F0%9F%93%8A;ML+%26+AI+Engineer+%F0%9F%A4%96;Generative+AI+Builder+%E2%9C%A8;Career+Switcher+%E2%86%92+AI+Engineer+%E2%9A%A1;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Status Badge -->
 ![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Actively%20Seeking%20Roles-6C63FF?style=for-the-badge&labelColor=white)
 
 <br/>
 
-<!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhamoza)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ridhamoza)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridhamoza.dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridham.oza@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ridham-Oza&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ridham-Oza)
 
@@ -47,7 +43,7 @@ me = RidhamOza()
 me.say_hi()
 ```
 
-> 💡 I made the leap into Data Science & AI with one conviction — **data is the most powerful technology of our generation**. I combine fresh, cutting-edge academic knowledge with a relentless, project-first mindset. Every line of code I write is a step toward building AI systems that actually matter.
+> 💡 I made the leap into Data Science & AI with one conviction — **data is the most powerful technology of our generation**. I combine fresh, cutting-edge academic knowledge with a relentless, project-first mindset.
 
 ---
 
@@ -70,7 +66,6 @@ me.say_hi()
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Tools · Deployment · MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,42 +81,62 @@ me.say_hi()
 
 ## 🚀 Project Showcase
 
-> 🔨 = Currently Building &nbsp; 📋 = Coming Soon &nbsp; ✅ = Complete
+> ⚠️ **Projects are being built and will be uploaded soon. Links will be live shortly!**
+>
+> 🔨 = Currently Building &nbsp;|&nbsp; 📋 = Coming Soon &nbsp;|&nbsp; ✅ = Complete
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [GenAI RAG Chatbot](https://github.com/Ridham-Oza/genai-rag-chatbot) &nbsp;🔨
-**Retrieval-Augmented Generation** system built with LangChain, FAISS vector DB, and GPT-4. Upload any document and have an intelligent conversation with it.
+### 🤖 GenAI RAG Chatbot &nbsp;🔨
+> *Repo coming soon — currently building*
 
-`LangChain` `OpenAI` `FAISS` `Streamlit` `Python`
+**Retrieval-Augmented Generation** system with LangChain, FAISS vector DB, and GPT-4. Upload any document and have an intelligent conversation with it.
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Customer Churn Predictor](https://github.com/Ridham-Oza/churn-prediction) &nbsp;📋
-**End-to-end ML pipeline** using XGBoost + SHAP explainability achieving 92% accuracy. Fully deployed with FastAPI + Docker for production use.
+### 📊 Customer Churn Predictor &nbsp;📋
+> *Repo coming soon*
 
-`XGBoost` `SHAP` `FastAPI` `Docker` `Pandas`
+**End-to-end ML pipeline** using XGBoost + SHAP explainability. Deployed with FastAPI + Docker for production use.
+
+![XGBoost](https://img.shields.io/badge/XGBoost-189ACA?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ [Image Caption Generator](https://github.com/Ridham-Oza/image-captioning) &nbsp;📋
-**CNN + Transformer model** trained on the COCO dataset. Generates rich, descriptive captions for any image using a multi-head attention mechanism.
+### 🖼️ Image Caption Generator &nbsp;📋
+> *Repo coming soon*
 
-`PyTorch` `CNN` `Transformers` `COCO` `OpenCV`
+**CNN + Transformer model** trained on COCO dataset. Generates rich captions for any image using multi-head attention.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Sales Intelligence Dashboard](https://github.com/Ridham-Oza/sales-dashboard) &nbsp;📋
-**Interactive Power BI + Python** dashboard with ML-powered forecasting using Prophet. Predicts revenue 30 days ahead with confidence intervals.
+### 📈 Sales Intelligence Dashboard &nbsp;📋
+> *Repo coming soon*
 
-`Power BI` `Prophet` `SQL` `Pandas` `Python`
+**Power BI + Python** dashboard with ML forecasting using Prophet. Predicts revenue 30 days ahead with confidence intervals.
+
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
@@ -147,16 +162,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ridham-Oza&theme=flat&no-frame=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -166,6 +171,16 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ridham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridham-Oza&theme=github-light&hide_border=true&color=6C63FF&line=48CAE4&point=6C63FF&area=true&area_color=EEF2FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -181,16 +196,6 @@ me.say_hi()
 📊  Time-series forecasting with Temporal Fusion Transformers
 🧮  Vector databases: Pinecone, Weaviate, Chroma, FAISS
 ```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Ridham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ridham-Oza&theme=github-light&hide_border=true&color=6C63FF&line=48CAE4&point=6C63FF&area=true&area_color=EEF2FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -218,6 +223,8 @@ me.say_hi()
 
 **⭐ Star my repos if you find them useful · 🤝 Always open to collaborating**
 
-</div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:6C63FF,100:48CAE4&height=130&section=footer"/>
+![wave](https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/main/wave.svg)
+
+</div>
