@@ -89,15 +89,17 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 GenAI RAG Chatbot &nbsp;🔨
-> *Repo coming soon — currently building*
+### 🤖 GenAI RAG Chatbot &nbsp;✅
+> ### 🤖 [GenAI RAG Chatbot](https://github.com/Ridham-Oza/GEN-AI-RAG-CHATBOT)
+> *Live — check it out!*
 
-**Retrieval-Augmented Generation** system with LangChain, FAISS vector DB, and GPT-4. Upload any document and have an intelligent conversation with it.
+**Retrieval-Augmented Generation** system with LangChain, FAISS vector DB, and GPT- present document and have an intelligent conversation with it.
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
