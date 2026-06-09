@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- TYPING SVG - Main hero (no external image, pure text-based so never breaks) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ridham+Oza)](https://git.io/typing-svg)
+<sub>DATA SCIENCE · MACHINE LEARNING · GENERATIVE AI</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=48CAE4&center=true&vCenter=true&random=false&width=700&height=45&lines=Data+Scientist+%F0%9F%93%8A;ML+%26+AI+Engineer+%F0%9F%A4%96;Generative+AI+Builder+%E2%9C%A8;Career+Switcher+%E2%86%92+AI+Engineer+%E2%9A%A1;Building+the+Future+with+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
+## Hi, I'm Ridham Oza 👋
 
-<br/>
-
-![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Actively%20Seeking%20Roles-6C63FF?style=for-the-badge&labelColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=40&lines=Building+the+future+with+AI+%26+Data+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%93%8A;Fine-tuning+LLMs+%26+Building+Agents+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhamoza)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ridhamoza)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridham.oza@gmail.com)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Actively%20Seeking%20Opportunities-6C63FF?style=for-the-badge&labelColor=white)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridham-oza/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ridhamoza2001)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/086Oza26415)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhamoza2001@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ridham-Oza&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Ridham-Oza)
 
 </div>
