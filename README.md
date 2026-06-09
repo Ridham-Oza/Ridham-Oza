@@ -150,13 +150,7 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridham-Oza&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=48CAE4&text_color=333333&bg_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridham-Oza&layout=compact&langs_count=8&theme=buefy&hide_border=true&title_color=6C63FF&text_color=333333&bg_color=ffffff"/>
-
-</div>
 
 <div align="center">
 
@@ -229,6 +223,6 @@ me.say_hi()
 
 <br/>
 
-![wave](https://raw.githubusercontent.com/Ridham-Oza/Ridham-Oza/main/wave.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=100&section=footer"/>
 
 </div>
