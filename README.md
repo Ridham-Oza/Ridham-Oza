@@ -81,72 +81,10 @@ me.say_hi()
 
 ---
 
-## 🚀 Project Showcase
 
-> ⚠️ **Projects are being built and will be uploaded soon. Links will be live shortly!**
->
-> 🔨 = Currently Building &nbsp;|&nbsp; 📋 = Coming Soon &nbsp;|&nbsp; ✅ = Complete
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🤖 GenAI RAG Chatbot &nbsp;✅
-> (https://github.com/Ridham-Oza/GEN-AI-RAG-CHATBOT)
-> *Live — check it out!*
 
-**Retrieval-Augmented Generation** system with LangChain, FAISS vector DB, and GPT- present document and have an intelligent conversation with it.
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Customer Churn Predictor &nbsp;📋
-> *Repo coming soon*
-
-**End-to-end ML pipeline** using XGBoost + SHAP explainability. Deployed with FastAPI + Docker for production use.
-
-![XGBoost](https://img.shields.io/badge/XGBoost-189ACA?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Image Caption Generator &nbsp;📋
-> *Repo coming soon*
-
-**CNN + Transformer model** trained on COCO dataset. Generates rich captions for any image using multi-head attention.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Sales Intelligence Dashboard &nbsp;📋
-> *Repo coming soon*
-
-**Power BI + Python** dashboard with ML forecasting using Prophet. Predicts revenue 30 days ahead with confidence intervals.
-
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
